@@ -1,3 +1,3 @@
 # Introduction to Spring AI
 
-This repository contains source code examples used to support my on-line courses about the Spring Framework.
+This repository contains source code examples related to spring AI to get responses from open-ai using spring prompt template..
